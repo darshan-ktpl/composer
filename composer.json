@@ -10,7 +10,7 @@
             "email": "kunj.joshi@krishtechnolabs.com",
             "role": "Developer"
         }
-    ]
+    ],
     "autoload": {
         "classmap": ["index.php"]
     }
