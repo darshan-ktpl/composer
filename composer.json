@@ -1,0 +1,17 @@
+{
+    "name": "composer/composer",
+    "type": "library",
+    "description": "PHP Test",
+    "keywords": ["test", "kunj", "task", "composer"],
+    "homepage": "https://github.com/darshan-ktpl/composer/",
+    "authors": [
+        {
+            "name": "kunj",
+            "email": "kunj.joshi@krishtechnolabs.com"
+            "role": "Developer"
+        }
+    ]
+    "autoload": {
+        "classmap": ["index.php"]
+    }
+}
