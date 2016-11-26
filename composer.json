@@ -1,5 +1,5 @@
 {
-    "name": "composer/composer",
+    "name": "darshan/captcha",
     "type": "library",
     "description": "PHP Test",
     "keywords": ["test", "kunj", "task", "composer"],
